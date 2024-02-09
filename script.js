@@ -1,3 +1,4 @@
+/*
 document.addEventListener('DOMContentLoaded', function() {
     var contactForm = document.getElementById('contact-form');
 
@@ -31,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function() {
         alert('Form submitted successfully!');
     });
 });
-
+*/
 
 // @ts-nocheck
 (function () {
